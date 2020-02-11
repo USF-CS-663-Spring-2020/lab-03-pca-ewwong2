@@ -1,4 +1,4 @@
-# readme.md
+# Lab 3 PCA
 
-**Name**:  Edmund Wong
+**Name**:  Edmund Wong  
 **USF email address**:  ewwong2@dons.usfca.edu
